@@ -28,3 +28,10 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 0: July 7, 2022
+- Figuring out which career path I want to complete. 
+
+**Today's Progress**: Front End Developer Career Path. plan html + css review. 3D modeling?
+
+**Thoughts:** I forgot css pretty much, its very annoying because I used to remember it, but i think I need to try and find a note guide so I can remember and start reviewing more so I can solidify the concetps. Tomorrow I am also going to learn basic syntax in in GitHub because im really new to everything and I dont truly know how to use it. This will give me a chance to improve my GitHub skills alongside my code journey.  Last but not least, I am going to try and find some motivational videos/tedtalks to help me get out of this slump. 
