@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+<!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -16,7 +16,7 @@
 
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Calculator App](http://www.example.com) -->
 
 
 ### Day 1: June 27, Monday
@@ -35,3 +35,11 @@
 **Today's Progress**: Front End Developer Career Path. plan html + css review. 3D modeling?
 
 **Thoughts:** I forgot css pretty much, its very annoying because I used to remember it, but i think I need to try and find a note guide so I can remember and start reviewing more so I can solidify the concetps. Tomorrow I am also going to learn basic syntax in in GitHub because im really new to everything and I dont truly know how to use it. This will give me a chance to improve my GitHub skills alongside my code journey.  Last but not least, I am going to try and find some motivational videos/tedtalks to help me get out of this slump. 
+
+### Day 1: July 9, 2022 Saturday
+
+**Today's Progress**: HTML refresh + GitHub basic syntax.
+
+**Thoughts:** I am working on building a cat photo app on free code camp to refresh my memory of HTML. I am going to work a bit longer tomorrow, but I am tired today so I only worked for about 30ish minutes. I am also going to rview some more GitHub fortmatting and syntax tomorrow. Another goal that I set for myself is to work on my typing skills. I enjoy coding and learning how to use code in a beautiful way, and I am going to try and find courses to work on problem solving skills because I hate math, and I think it would be best if I could learn it on my own time.
+
+I am also going to refer back to codecademy and see how the two sites differ when it comes to course delivery. I am definitely going to continue through codecademy and use freecodecamp as a study method alongside it.
