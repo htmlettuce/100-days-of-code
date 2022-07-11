@@ -43,3 +43,11 @@
 **Thoughts:** I am working on building a cat photo app on free code camp to refresh my memory of HTML. I am going to work a bit longer tomorrow, but I am tired today so I only worked for about 30ish minutes. I am also going to rview some more GitHub fortmatting and syntax tomorrow. Another goal that I set for myself is to work on my typing skills. I enjoy coding and learning how to use code in a beautiful way, and I am going to try and find courses to work on problem solving skills because I hate math, and I think it would be best if I could learn it on my own time.
 
 I am also going to refer back to codecademy and see how the two sites differ when it comes to course delivery. I am definitely going to continue through codecademy and use freecodecamp as a study method alongside it.
+
+### Day 2: July 10, 2022 Sunday
+
+**Today's progress**: Finished HTML lesson on freeCodeCamp!
+
+**Thoughts:** I finihsed building the adorable cat photo app for my html lesson review. Tomorrow I am going to try to dive into CSS by building a cafe menu. I start a new job tomorrow, so I will have to figure out how I can incorporate coding an hour into my regular work day plus other household responsibilities I have. I am extremely excited to get back into coding and hopefully this challenge will teach me diligence and persistance. I am also going to try to do a project of my own, and that is going to be a book log! Today was a great day and tomorrow is going to be even better.
+
+_**"The purpose of our lives is to be happy" - Dalai Lama.**_
