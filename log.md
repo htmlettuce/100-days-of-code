@@ -42,10 +42,24 @@ I am also going to refer back to codecademy and see how the two sites differ whe
 
 _**"The purpose of our lives is to be happy" - Dalai Lama.**_
 
-### Day 3: July 12, 2022 Wednesday
+### Day 3: July 13, 2022 Wednesday
 
 **Today's Progress**: Working through CSS lesson + project
 
 **Thoughts:** I finished my HTML lesson and began working through CSS by building a cafe menu. I am getting used to coding and the instructions behind it, but my next big goal is to figure out how to code and fromat things without being told specifically what to do with step by step instructions. When I get home tonight I am going to have free time to play minecraft so I think my next project may be a minecraft website or something along those lines. I also think I want to create a cat cafe app or something since I love both cats and coffee lol. I am going to begin working soon so I still need to find a way to fit coding into my daily schedule. Another project I am going to work on is a book hub library. I am going to do it of all the books that I have on my bookshelf and then I am going to work on making a 3D model of my office space, bookshelf, and possibly my kitchen. I havent started taking any 3D modeling lessons yet but I am going to work on that as well. I am getting back into my groove of coding and I am very excited for that. Also with school starting back soon, I am going to get back into my UX/UI specialty. Hopefully I can find an internship this year that will help me expand my skillset. I am going to try and focus most of my time during the schoolyear on design and user interface so I can grasp those skills and use them when I am designing websites. 
 
 For some reason GitHub is not registering my typing speed with real time and its getting annoying so I think I am done journaling for today lol...
+
+### Day 4: July 14, Thursday
+
+**Today's Progress**: Finished building cafe menu, moving on to colored markers project
+
+**Thoughts:** I finished building the cafe menu and I forked it onto codecademy so I can add some things just for fun. I am moving on to a new project which is coding colored markers. I am pretty tired this morning so I am going to give myself some time to gather myself and probably do some school work before I code again either today or tomorrow. I need more discipline in my life when it comes to completing tasks not at the last minute. I have also been trying my best to type better but all good things come with practice lol. 
+
+
+
+### Day : July 
+
+**Today's Progress**: 
+
+**Thoughts:**
