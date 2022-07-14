@@ -58,6 +58,13 @@ For some reason GitHub is not registering my typing speed with real time and its
 
 
 
+### Day : July 14, Thursday
+
+**Today's Progress**: Finished CSS lesson for basics!
+
+**Thoughts:** After I finihsed the CSS module, I thought now owuld be a good time to start my own personal project, so I am building a customizer for iced coffee form. Iam basically copying the basic code that I already wrote onto the new file and then customizing it further. I am thinking about making it pretty simple with a minamalist type of look, but I dont have much CSS under my belt so I am just playing around with what I know. I am hanging out with a friend today and we are going to work on code. Him and I are from two different backgrounds, hes backend and I am more on the front end. He's studying for job interviews so hes doing mainly SQL stuff right now. I enjoy hangingout with other software developers and working on our own projects. If it werent for him, I wouldnt have gotten into code so soon, but I feel that eventually I would have found my way over to this side of the tech industry. 
+
+
 ### Day : July 
 
 **Today's Progress**: 
