@@ -65,6 +65,13 @@ For some reason GitHub is not registering my typing speed with real time and its
 **Thoughts:** After I finihsed the CSS module, I thought now owuld be a good time to start my own personal project, so I am building a customizer for iced coffee form. Iam basically copying the basic code that I already wrote onto the new file and then customizing it further. I am thinking about making it pretty simple with a minamalist type of look, but I dont have much CSS under my belt so I am just playing around with what I know. I am hanging out with a friend today and we are going to work on code. Him and I are from two different backgrounds, hes backend and I am more on the front end. He's studying for job interviews so hes doing mainly SQL stuff right now. I enjoy hangingout with other software developers and working on our own projects. If it werent for him, I wouldnt have gotten into code so soon, but I feel that eventually I would have found my way over to this side of the tech industry. 
 
 
+### Day : July 17, Sunday
+
+**Today's Progress**: Quick catch up journal
+
+**Thoughts:** I have been coding every day for the past 3 days, but I have been forgetting to journal it hehe. I am working on a project of my own, and it is an espresso builder. Basically, you get to customize your espresso, and I am revising the HTML code and tomorrow or so I am going to begin working in CSS. I am planning on completing the box model lesson in Codecademy tomorrow so that can help me understand padding beyon dusing stack overflow lol. I am really enjoying this journey, and after this challenge is complete, I am going to mmove up to the 365daysofcode challenge. I am excited to finish learning CSS, but I am scared to begin JavaScript. I have heard from many people that it is a very tricky language to learn, but practice makes perfect. Last but not least, I am going to begin content creating for code related content. I am nervous because I truly have no editing skills whatsoever, but I am going to watch some youtube videos to help me. My life feels like it is finally coming together and I am eager tos ee how everything turns out, but until then I am going towork as hard as I possibly can to get to the point that I want to be.
+
+
 ### Day : July 
 
 **Today's Progress**: 
