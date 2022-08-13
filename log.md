@@ -77,3 +77,11 @@ For some reason GitHub is not registering my typing speed with real time and its
 **Today's Progress**: 
 
 **Thoughts:**
+
+
+### Day : August 12, 2022
+
+**Today's Progress**: Grounding 
+
+**Thoughts:** I am getting ready to go back to school Monday. I am goingt o really buckel down and start looking at Java code lesosns, and look more into what exactly I asm going to be learning in this class. I am going to use this opportunity to commit to my coding challenge, and also possibliy begin code content creation. I am currently watching a youtuber explain java but I think I am also going to use codecademy more so that I can get some self paced practice as well. I am making a commitment for myself and I am going to stick with it, and I am going to become the best version of myself. 
+
