@@ -58,14 +58,14 @@ For some reason GitHub is not registering my typing speed with real time and its
 
 
 
-### Day : July 14, Thursday
+### Day 5: July 14, Thursday
 
 **Today's Progress**: Finished CSS lesson for basics!
 
 **Thoughts:** After I finihsed the CSS module, I thought now owuld be a good time to start my own personal project, so I am building a customizer for iced coffee form. Iam basically copying the basic code that I already wrote onto the new file and then customizing it further. I am thinking about making it pretty simple with a minamalist type of look, but I dont have much CSS under my belt so I am just playing around with what I know. I am hanging out with a friend today and we are going to work on code. Him and I are from two different backgrounds, hes backend and I am more on the front end. He's studying for job interviews so hes doing mainly SQL stuff right now. I enjoy hangingout with other software developers and working on our own projects. If it werent for him, I wouldnt have gotten into code so soon, but I feel that eventually I would have found my way over to this side of the tech industry. 
 
 
-### Day : July 17, Sunday
+### Day 6: July 17, Sunday
 
 **Today's Progress**: Quick catch up journal
 
@@ -79,9 +79,16 @@ For some reason GitHub is not registering my typing speed with real time and its
 **Thoughts:**
 
 
-### Day : August 12, 2022
+### Day 6.5 : August 12, 2022
 
 **Today's Progress**: Grounding 
 
 **Thoughts:** I am getting ready to go back to school Monday. I am goingt o really buckel down and start looking at Java code lesosns, and look more into what exactly I asm going to be learning in this class. I am going to use this opportunity to commit to my coding challenge, and also possibliy begin code content creation. I am currently watching a youtuber explain java but I think I am also going to use codecademy more so that I can get some self paced practice as well. I am making a commitment for myself and I am going to stick with it, and I am going to become the best version of myself. 
 
+
+### Day 7:  
+
+**Today's Progress**: Gathering resources again, finding foundations
+
+**Thoughts:** I took a huge break off of coding for a while to try and figure some stuff out. I am learning that I am fond of front end development rather than back end. I am also learning how to pace myself more so I do not burn out easily. I am going to refresh my memory on html and I am going to dive back into CSS so I can begin learning JavaScript. After I complete that, I am going to begin learning python, bc one of my major courses requires a programming class. I initially tried learning Java but that was proven rather difficult for me at the time. I will try to be consistant with coding by doing a minimum of 30 minutes every day. I realized that one of my main problems is that I get too stuck in the aesthetics of learning something rather than actually doing it. I constantly compare myself to friends that I have that are much better at coding than me forgetting to include the fact that they have been doing it longer than me. 
+To be continued, I am watching a pretty interesting show right now....
